@@ -6,7 +6,7 @@
 <ul>
     <li>HTML5</li>
     <li>CSS3</li>
-    <li>Vanilla JS</li>
+    <li>JavaScript</li>
 </ul>
 
 <h4>Used APIs</h4>
