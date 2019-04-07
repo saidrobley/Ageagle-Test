@@ -1,12 +1,16 @@
-WebApp
+<h2>WebApp</h2>
 
-When a user clicks on a given location, the webapp should display the current weather data for that location
+<p>When a user clicks on a given location, the webapp should display the current weather data for that location.</p>
 
-Used technologies
-    HTML5
-    CSS3
-    Vanilla JS
+<h4>Used technologies</h4>
+<ul>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>Vanilla JS</li>
+</ul>
 
-Used APIs
-    Mapbox: for rending maps
-    Open Weather Map: for weather data
+<h4>Used APIs</h4>
+<ul>
+    <li>Mapbox: for rending maps</li>
+    <li>Open Weather Map: for weather data</li>
+</ul>
