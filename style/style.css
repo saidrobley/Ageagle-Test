@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+#info {
+  display: block;
+  position: relative;
+  margin: 0px auto;
+  width: 50%;
+  height: 17px;
+  padding: 10px;
+  border: none;
+  border-radius: 3px;
+  font-size: 12px;
+  text-align: center;
+  color: white;
+  background: green;
+  font-size: 1.6rem;
+}
